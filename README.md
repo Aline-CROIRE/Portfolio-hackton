@@ -16,9 +16,12 @@ This is my personal portfolio website showcasing my skills, background, and proj
 
 - HTML
 - CSS
+- SCSS
 - js
 - bootstrap
 
 ## Live Demo
 
-You can view the live demo of my portfolio at [link-to-live-demo].
+You can view the live demo of my portfolio at https:[Portfolio](#https://alineprofile.netlify.app/)
+
+
