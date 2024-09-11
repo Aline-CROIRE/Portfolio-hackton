@@ -22,6 +22,6 @@ This is my personal portfolio website showcasing my skills, background, and proj
 
 ## Live Demo
 
-You can view the live demo of my portfolio at https:[Portfolio](#https://alineprofile.netlify.app/)
+You can view the live demo of my portfolio at https: [Portfolio](#https://alineprofile.netlify.app/)
 
 
